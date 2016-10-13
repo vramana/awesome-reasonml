@@ -5,7 +5,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 - [Reason](#reason)
   - [Reason General Resources](#reason-general-resources)
     - [Homepage](https://facebook.github.io/reason/)
-    - [Rebel](https://github.com/reasonml/rebel) - install Reason toolchain via npm / Yarn
+    - [Rebel](https://github.com/reasonml/rebel) - install Reason toolchain via npm / yarn
     - [Rebel Example Project](https://github.com/reasonml/RebelExampleProject)
   - [Reason Community](#reason-community)
     - [@reasonml](https://twitter.com/reasonml) Twitter
