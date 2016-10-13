@@ -4,6 +4,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 
 - [Reason](#reason)
   - [Reason General Resources](#reason-general-resources)
+  - [Reason Starter Kits](#reason-starter-kits)
   - [Reason Tutorials](#reason-tutorials)
   - [Reason Talks](#reason-talks)
   - [Reason Tools](#reason-tools)
@@ -19,6 +20,10 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [Reason Github](https://github.com/facebook/reason)
 * [Reason Twitter](https://twitter.com/reasonml)
 * Discord Community - [Invite](https://discord.gg/e27dUMx)
+
+#### Reason Starter Kits
+* [Example Project](https://github.com/reasonml/ExampleProject)
+* [Example Project with Rebel](https://github.com/reasonml/RebelExampleProject)
 
 #### Reason Tutorials
 * [Armed with Reason](http://kcsrk.info/reason/arm/2016/05/16/armed-with-reason/) - Target Raspberry PI
