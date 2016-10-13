@@ -7,6 +7,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
   - [Reason Tutorials](#reason-tutorials)
   - [Reason Talks](#reason-talks)
   - [Reason Tools](#reason-tools)
+  - [Reason Bindings](#reason-bindings)
 - [Bucklescript](#bucklescript)
 - [Example Apps](#example-apps)
 - [Bindings](#bindings)
@@ -16,7 +17,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 #### Reason General Resources
 * [Homepage](https://facebook.github.io/reason/)
 * [Reason Github](https://github.com/facebook/reason)
-* [@reasonml](https://twitter.com/reasonml) Twitter
+* [Reason Twitter](https://twitter.com/reasonml)
 * Discord Community - [Invite](https://discord.gg/e27dUMx)
 
 #### Reason Tutorials
@@ -28,10 +29,10 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * Reason - Phil Holden [slides](http://philholden.me.uk/reason/reason.pdf)
 
 #### Reason Tools
-* [Rebel](https://github.com/reasonml/rebel) - install Reason toolchain via npm / yarn
+* [Rebel](https://github.com/reasonml/rebel) - Reason Build System
 
 #### Reason Bindings
-* [ReSocket.io](https://github.com/bsansouci/ReSocket.io) Socket.io bindings
+* [ReSocket.io](https://github.com/bsansouci/ReSocket.io) - Socket.io bindings
 * [Rexpress](https://github.com/vramana/Rexpress) - Express bindings
 
 ----
@@ -43,9 +44,9 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 
 ---
 ### Example Apps
-* [Rewitness](https://github.com/bsansouci/rewitness) - Reason game
-* [tapknight](https://github.com/bsansouci/tapknight) - Reason game
-* [css-layout](https://github.com/jordwalke/css-layout/tree/master/src/re-layout) - ReCSS Flexbox
+* [Rewitness](https://github.com/bsansouci/rewitness) - Clone of the game The Witness
+* [tapknight](https://github.com/bsansouci/tapknight) - Just Another Game in Reason
+* [css-layout](https://github.com/jordwalke/css-layout/tree/master/src/re-layout) - Standalone CSS Flexbox Implementation in Reason
 
 ---
 ### Contribution
