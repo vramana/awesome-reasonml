@@ -35,6 +35,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 
 #### Reason Tools
 * [Rebel](https://github.com/reasonml/rebel) - Reason Build System
+* [rejs](https://github.com/jaredly/rejs) - JS to Reason Transpiler
 
 #### Reason Bindings
 * [ReSocket.io](https://github.com/bsansouci/ReSocket.io) - Socket.io bindings
