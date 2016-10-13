@@ -31,6 +31,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 
 #### Reason Talks
 * Dawn of Reason - Sander Spies [slides](https://sanderspies.github.io/slides/dawn-of-reason.pdf)
+* [From Unikernels to Databases to UIs: Truly full-stack apps in OCaml](https://youtu.be/QWfHrbSqnB0) - Sean Grove
 * Reason - Phil Holden [slides](http://philholden.me.uk/reason/reason.pdf)
 
 #### Reason Tools
@@ -40,6 +41,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 #### Reason Bindings
 * [ReSocket.io](https://github.com/bsansouci/ReSocket.io) - Socket.io bindings
 * [Rexpress](https://github.com/vramana/Rexpress) - Express bindings
+* [reason-js](https://github.com/chenglou/reason-js) - JavaScript bindings via BuckleScript
 
 ----
 ### Bucklescript
