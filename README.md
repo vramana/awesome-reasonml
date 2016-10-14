@@ -9,7 +9,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
   - [Reason Talks](#reason-talks)
   - [Reason Tools](#reason-tools)
   - [Reason Bindings](#reason-bindings)
-- [Bucklescript](#bucklescript)
+- [BuckleScript](#bucklescript)
 - [Example Apps](#example-apps)
 - [Bindings](#bindings)
 - [Contribution](#contribution)
@@ -47,11 +47,11 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [vscode-reasonml](https://github.com/freebroccolo/vscode-reasonml) - Reason support for Visual Studio Code 
 
 ----
-### Bucklescript
+### BuckleScript
 * [Homepage](https://bloomberg.github.io/bucklescript/)
-* [Bucklescript Manual](https://bloomberg.github.io/bucklescript/Manual.html)
+* [BuckleScript Manual](https://bloomberg.github.io/bucklescript/Manual.html)
 * [Reason Playgroud](https://bloomberg.github.io/bucklescript/reason-demo/)
-* [Bucklescript Playground](https://bloomberg.github.io/bucklescript/js-demo/)
+* [BuckleScript Playground](https://bloomberg.github.io/bucklescript/js-demo/)
 
 ---
 ### Example Apps
