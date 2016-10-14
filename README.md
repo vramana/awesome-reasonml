@@ -61,6 +61,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 ---
 ### Example Apps
 * [Rewitness](https://github.com/bsansouci/rewitness) - Clone of the game The Witness
+* [ReasonCharts](https://github.com/Aweary/ReasonCharts) - Native Charts in Reason via OpenGL
 * [tapknight](https://github.com/bsansouci/tapknight) - Just Another Game in Reason
 * [css-layout](https://github.com/jordwalke/css-layout/tree/master/src/re-layout) - Standalone CSS Flexbox Implementation in Reason
 
