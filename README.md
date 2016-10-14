@@ -43,6 +43,9 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [Rexpress](https://github.com/vramana/Rexpress) - Express bindings
 * [reason-js](https://github.com/chenglou/reason-js) - JavaScript bindings via BuckleScript
 
+#### Reason Editor Plugins
+* [vscode-reasonml](https://github.com/freebroccolo/vscode-reasonml) - Reason support for Visual Studio Code 
+
 ----
 ### Bucklescript
 * [Homepage](https://bloomberg.github.io/bucklescript/)
