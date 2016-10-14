@@ -50,7 +50,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 ### BuckleScript
 * [Homepage](https://bloomberg.github.io/bucklescript/)
 * [BuckleScript Manual](https://bloomberg.github.io/bucklescript/Manual.html)
-* [Reason Playgroud](https://bloomberg.github.io/bucklescript/reason-demo/)
+* [Reason Playground](https://bloomberg.github.io/bucklescript/reason-demo/)
 * [BuckleScript Playground](https://bloomberg.github.io/bucklescript/js-demo/)
 
 ---
