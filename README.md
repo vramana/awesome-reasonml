@@ -9,6 +9,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
   - [Reason Talks](#reason-talks)
   - [Reason Tools](#reason-tools)
   - [Reason Bindings](#reason-bindings)
+  - [Reason Editor Plugins](#reason-editor-plugins)
 - [BuckleScript](#bucklescript)
 - [Example Apps](#example-apps)
 - [Bindings](#bindings)
