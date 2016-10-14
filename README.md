@@ -44,7 +44,11 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [reason-js](https://github.com/chenglou/reason-js) - JavaScript bindings via BuckleScript
 
 #### Reason Editor Plugins
-* [vscode-reasonml](https://github.com/freebroccolo/vscode-reasonml) - Reason support for Visual Studio Code 
+* [atom-reason](https://github.com/facebook/reason/tree/master/editorSupport/atom-reason) - Atom support
+* [reason-mode](https://github.com/facebook/reason/tree/master/editorSupport/emacs) - A major Emacs mode for Reason
+* [sublime-reason](https://github.com/facebook/reason/tree/master/editorSupport/sublime-reason) - Sublime Text package
+* [VimReason](https://github.com/facebook/reason/tree/master/editorSupport/VimReason) - Vim support
+* [vscode-reasonml](https://github.com/freebroccolo/vscode-reasonml) - Visual Studio Code support 
 
 ----
 ### BuckleScript
