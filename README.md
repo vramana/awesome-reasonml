@@ -9,7 +9,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
   - [Reason Talks](#reason-talks)
   - [Reason Tools](#reason-tools)
   - [Reason Bindings](#reason-bindings)
-- [Bucklescript](#bucklescript)
+- [BuckleScript](#bucklescript)
 - [Example Apps](#example-apps)
 - [Bindings](#bindings)
 - [Contribution](#contribution)
@@ -43,12 +43,19 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [Rexpress](https://github.com/vramana/Rexpress) - Express bindings
 * [reason-js](https://github.com/chenglou/reason-js) - JavaScript bindings via BuckleScript
 
+#### Reason Editor Plugins
+* [atom-reason](https://github.com/facebook/reason/tree/master/editorSupport/atom-reason) - Atom support
+* [reason-mode](https://github.com/facebook/reason/tree/master/editorSupport/emacs) - A major Emacs mode for Reason
+* [sublime-reason](https://github.com/facebook/reason/tree/master/editorSupport/sublime-reason) - Sublime Text package
+* [VimReason](https://github.com/facebook/reason/tree/master/editorSupport/VimReason) - Vim support
+* [vscode-reasonml](https://github.com/freebroccolo/vscode-reasonml) - Visual Studio Code support 
+
 ----
-### Bucklescript
+### BuckleScript
 * [Homepage](https://bloomberg.github.io/bucklescript/)
-* [Bucklescript Manual](https://bloomberg.github.io/bucklescript/Manual.html)
-* [Reason Playgroud](https://bloomberg.github.io/bucklescript/reason-demo/)
-* [Bucklescript Playground](https://bloomberg.github.io/bucklescript/js-demo/)
+* [BuckleScript Manual](https://bloomberg.github.io/bucklescript/Manual.html)
+* [Reason Playground](https://bloomberg.github.io/bucklescript/reason-demo/)
+* [BuckleScript Playground](https://bloomberg.github.io/bucklescript/js-demo/)
 
 ---
 ### Example Apps
