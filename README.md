@@ -19,7 +19,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [Homepage](https://facebook.github.io/reason/)
 * [Reason Github](https://github.com/facebook/reason)
 * [Reason Twitter](https://twitter.com/reasonml)
-* Discord Community - [Invite](https://discord.gg/e27dUMx)
+* [Discord Community](https://discord.gg/reasonml)
 
 #### Reason Starter Kits
 * [Example Project](https://github.com/reasonml/ExampleProject)
