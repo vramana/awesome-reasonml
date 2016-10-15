@@ -8,11 +8,11 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
   - [Reason Tutorials](#reason-tutorials)
   - [Reason Talks](#reason-talks)
   - [Reason Tools](#reason-tools)
+  - [Reason Libraries](#reason-libraries)
   - [Reason Bindings](#reason-bindings)
   - [Reason Editor Plugins](#reason-editor-plugins)
 - [BuckleScript](#bucklescript)
 - [Example Apps](#example-apps)
-- [Bindings](#bindings)
 - [Contribution](#contribution)
 
 ### Reason
@@ -38,6 +38,9 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 #### Reason Tools
 * [Rebel](https://github.com/reasonml/rebel) - Reason Build System
 * [rejs](https://github.com/jaredly/rejs) - JS to Reason Transpiler
+
+#### Reason Libraries
+* [transducers.re](https://github.com/IwanKaramazow/transducers.re) - Transducers in Reason
 
 #### Reason Bindings
 * [ReSocket.io](https://github.com/bsansouci/ReSocket.io) - Socket.io bindings
