@@ -25,7 +25,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 #### Reason Starter Kits
 * [Example Project](https://github.com/reasonml/ExampleProject)
 * [Example Project with Rebel](https://github.com/reasonml/RebelExampleProject)
-* [Web Starterkit](https://github.com/vramana/reason-web-starterkit)
+* [Web Starter Kit](https://github.com/vramana/reason-web-starterkit)
 
 #### Reason Tutorials
 * [Armed with Reason](http://kcsrk.info/reason/arm/2016/05/16/armed-with-reason/) - Target Raspberry PI
