@@ -66,7 +66,8 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [Rewitness](https://github.com/bsansouci/rewitness) - Clone of the game The Witness
 * [ReasonCharts](https://github.com/Aweary/ReasonCharts) - Native Charts in Reason via OpenGL
 * [tapknight](https://github.com/bsansouci/tapknight) - Just Another Game in Reason
-* [css-layout](https://github.com/jordwalke/css-layout/tree/master/src/re-layout) - Standalone CSS Flexbox Implementation in Reason
+* [ReLayout](https://github.com/jordwalke/ReLayout) - Standalone CSS Flexbox Implementation in Reason
+* [Reason Tools](https://github.com/rickyvetter/reason-tools) - Chrome Extension to automatically convert between .re, .ml, .rei, and .mli text 
 
 ---
 ### Contribution
