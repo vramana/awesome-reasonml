@@ -35,6 +35,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * Dawn of Reason - Sander Spies [slides](https://sanderspies.github.io/slides/dawn-of-reason.pdf)
 * [From Unikernels to Databases to UIs: Truly full-stack apps in OCaml](https://youtu.be/QWfHrbSqnB0) - Sean Grove
 * Reason - Phil Holden [slides](http://philholden.me.uk/reason/reason.pdf)
+* How to build your first Reason App? - Peter Ferak [slides](https://docs.google.com/presentation/d/1iua5cdq5ecvj8NZqisjwhuhNb_1ljP45K9xMhgLoj8o/edit)
 
 #### Reason Tools
 * [Rebel](https://github.com/reasonml/rebel) - Reason Build System
