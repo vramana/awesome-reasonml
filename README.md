@@ -28,6 +28,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [Web Starter Kit](https://github.com/vramana/reason-web-starterkit)
 
 #### Reason Tutorials
+* [An Introduction to Reason](https://www.gitbook.com/book/kennetpostigo/an-introduction-to-reason/details)
 * [Armed with Reason](http://kcsrk.info/reason/arm/2016/05/16/armed-with-reason/) - Target Raspberry PI
 * [Intro to Reason Compilation](https://github.com/chenglou/intro-to-reason-compilation)
 
