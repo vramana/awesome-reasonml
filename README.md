@@ -51,6 +51,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [ReSocket.io](https://github.com/bsansouci/ReSocket.io) - Socket.io bindings
 * [Rexpress](https://github.com/vramana/Rexpress) - Express bindings
 * [reason-js](https://github.com/chenglou/reason-js) - JavaScript bindings via BuckleScript
+* [reason-react](https://github.com/reasonml/reason-react) - React.js bindings
 
 #### Reason Editor Plugins
 * [atom-reason](https://github.com/facebook/reason/tree/master/editorSupport/atom-reason) - Atom support
@@ -73,6 +74,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [tapknight](https://github.com/bsansouci/tapknight) - Just Another Game in Reason
 * [ReLayout](https://github.com/jordwalke/ReLayout) - Standalone CSS Flexbox Implementation in Reason
 * [Reason Tools](https://github.com/rickyvetter/reason-tools) - Chrome Extension to automatically convert between .re, .ml, .rei, and .mli text 
+* [Reason-react example](https://github.com/chenglou/reason-react-example) - React bindings example
 
 ---
 ### Contribution
