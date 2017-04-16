@@ -38,6 +38,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * Reason - Phil Holden [slides](http://philholden.me.uk/reason/reason.pdf)
 * Age of Reason - Sean Grove [slides](https://sgrove.github.io/age-of-reason/)
 * How to build your first Reason App? - Peter Ferak [slides](https://docs.google.com/presentation/d/1iua5cdq5ecvj8NZqisjwhuhNb_1ljP45K9xMhgLoj8o/edit)
+* [Taming the Meta Language (React Conf 2017)](https://www.youtube.com/watch?v=_0T5OSSzxms) - Cheng Lou
 
 #### Reason Tools
 * [Rebel](https://github.com/reasonml/rebel) - Reason Build System
