@@ -76,6 +76,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [ReLayout](https://github.com/jordwalke/ReLayout) - Standalone CSS Flexbox Implementation in Reason
 * [Reason Tools](https://github.com/rickyvetter/reason-tools) - Chrome Extension to automatically convert between .re, .ml, .rei, and .mli text 
 * [Reason-react example](https://github.com/chenglou/reason-react-example) - React bindings example
+* [reason-of-life](https://github.com/kuy/reason-of-life) - Conway's Lifegame in Reason + reason-react with webpack + bs-loader
 
 ---
 ### Contribution
