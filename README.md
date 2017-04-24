@@ -67,6 +67,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [BuckleScript Manual](https://bloomberg.github.io/bucklescript/Manual.html)
 * [Reason Playground](https://bloomberg.github.io/bucklescript/reason-demo/)
 * [BuckleScript Playground](https://bloomberg.github.io/bucklescript/js-demo/)
+* [BuckleTypes index](https://github.com/BuckleTypes/index)
 
 ---
 ### Example Apps
