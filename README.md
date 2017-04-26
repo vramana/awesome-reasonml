@@ -44,6 +44,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [Rebel](https://github.com/reasonml/rebel) - Reason Build System
 * [rejs](https://github.com/jaredly/rejs) - JS to Reason Transpiler
 * [RED](https://github.com/frantic/red) - Reason/OCaml debugger
+* [bs-loader](https://github.com/rrdelaney) - Webpack loader for Bucklescript
 
 #### Reason Libraries
 * [transducers.re](https://github.com/IwanKaramazow/transducers.re) - Transducers in Reason
