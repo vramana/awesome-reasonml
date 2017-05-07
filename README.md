@@ -79,6 +79,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [Reason Tools](https://github.com/rickyvetter/reason-tools) - Chrome Extension to automatically convert between .re, .ml, .rei, and .mli text 
 * [Reason-react example](https://github.com/chenglou/reason-react-example) - React bindings example
 * [reason-of-life](https://github.com/kuy/reason-of-life) - Conway's Lifegame in Reason + reason-react with webpack + bs-loader
+* [nada.re](https://github.com/kuy/nada.re) - Visualization of [Abelian sandpile model](https://www.wikiwand.com/en/Abelian_sandpile_model) written in [Reason](http://facebook.github.io/reason) + [Obelisk.js](https://github.com/nosir/obelisk.js)
 
 ---
 ### Contribution
