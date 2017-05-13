@@ -80,6 +80,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [Reason-react example](https://github.com/chenglou/reason-react-example) - React bindings example
 * [reason-of-life](https://github.com/kuy/reason-of-life) - Conway's Lifegame in Reason + reason-react with webpack + bs-loader
 * [nada.re](https://github.com/kuy/nada.re) - Visualization of [Abelian sandpile model](https://www.wikiwand.com/en/Abelian_sandpile_model) written in [Reason](http://facebook.github.io/reason) + [Obelisk.js](https://github.com/nosir/obelisk.js)
+* [Reason Calculator](https://github.com/wyze/reason-calculator) - A calculator built with Reason and reason-react.
 
 ---
 ### Contribution
