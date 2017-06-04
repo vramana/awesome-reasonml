@@ -26,6 +26,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [Example Project](https://github.com/reasonml/ExampleProject)
 * [Example Project with Rebel](https://github.com/reasonml/RebelExampleProject)
 * [Web Starter Kit](https://github.com/vramana/reason-web-starterkit)
+* [Create Reason React App](https://github.com/knowbody/crra)
 
 #### Reason Tutorials
 * [An Introduction to Reason](https://www.gitbook.com/book/kennetpostigo/an-introduction-to-reason/details)
