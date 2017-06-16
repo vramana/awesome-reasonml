@@ -54,7 +54,6 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 #### Reason Bindings
 * [ReSocket.io](https://github.com/bsansouci/ReSocket.io) - Socket.io bindings
 * [Rexpress](https://github.com/vramana/Rexpress) - Express bindings
-* [reason-js](https://github.com/chenglou/reason-js) - JavaScript bindings via BuckleScript
 * [reason-react](https://github.com/reasonml/reason-react) - React.js bindings
 
 #### Reason Editor Plugins
@@ -66,10 +65,10 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 
 ----
 ### BuckleScript
-* [Homepage](https://bloomberg.github.io/bucklescript/)
-* [BuckleScript Manual](https://bloomberg.github.io/bucklescript/Manual.html)
-* [Reason Playground](https://bloomberg.github.io/bucklescript/reason-demo/)
-* [BuckleScript Playground](https://bloomberg.github.io/bucklescript/js-demo/)
+* [Homepage](https://bucklescript.github.io/bucklescript/)
+* [BuckleScript Manual](https://bucklescript.github.io/bucklescript/Manual.html)
+* [Reason Playground](https://bucklescript.github.io/bucklescript/reason-demo/)
+* [BuckleScript Playground](https://bucklescript.github.io/bucklescript/js-demo/)
 * [BuckleTypes index](https://github.com/BuckleTypes/index)
 
 ---
