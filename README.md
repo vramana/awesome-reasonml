@@ -31,6 +31,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [An Introduction to Reason](https://www.gitbook.com/book/kennetpostigo/an-introduction-to-reason/details)
 * [Armed with Reason](http://kcsrk.info/reason/arm/2016/05/16/armed-with-reason/) - Target Raspberry PI
 * [Intro to Reason Compilation](https://github.com/chenglou/intro-to-reason-compilation)
+* [An Invitation to ReasonML](https://protoship.io/blog/2017/05/10/an-invitation-to-reasonml.html)
 
 #### Reason Talks
 * 2017 05 – [@chenglou](https://github.com/chenglou) – React Europe – [Imperfection](https://www.youtube.com/watch?v=tCVXp6gFD8o)
