@@ -34,6 +34,8 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [An Invitation to ReasonML](https://protoship.io/blog/2017/05/10/an-invitation-to-reasonml.html)
 
 #### Reason Talks
+
+* 2017 06 – [@bassjacob](https://github.com/bassjacob/) – [Node.ninjas Sydney](https://www.meetup.com/en-AU/sydney-node-ninjas/) – [Everything happens for a Reason ](https://www.youtube.com/watch?v=lLqLqFgsimQ&ab_channel=ANZCoders)
 * 2017 05 – [@chenglou](https://github.com/chenglou) – React Europe – [Imperfection](https://www.youtube.com/watch?v=tCVXp6gFD8o)
 * 2017 05 – [@chenglou](https://github.com/chenglou) – React London – [What's in a language?](https://www.youtube.com/watch?v=24S5u_4gx7w)
 * 2017 04 – [@chenglou](https://github.com/chenglou) – React Conf – [Taming the Meta Language](https://www.youtube.com/watch?v=_0T5OSSzxms)
