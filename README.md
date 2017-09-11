@@ -52,6 +52,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [reason-tools](https://github.com/reasonml/reason-tools) - Chrome/Firefox Reason extension
 * [RED](https://github.com/frantic/red) - Native Reason/OCaml debugger
 * [bs-loader](https://github.com/reasonml-community/bs-loader) - Webpack loader for Bucklescript
+* [resuggest](https://github.com/GuillaumeSalles/resuggest) - Discover Reason functions based on examples.
 
 #### Reason Libraries/Bindings
 * [Reasonml-community](https://github.com/reasonml-community) - Where some of the community projects live
