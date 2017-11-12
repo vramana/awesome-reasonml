@@ -77,6 +77,7 @@ See the official guide [here](https://reasonml.github.io/guide/editor-tools/glob
 * [Mareo](https://github.com/reasonml-community/Mareo) - Online Mario game demo drawn on canvas
 * [Reason Maze](https://github.com/jaredly/reason-maze) - Amazing online maze generation
 * [ReLayout](https://github.com/jordwalke/ReLayout) - Standalone CSS Flexbox Implementation in Reason
+* [Red](https://github.com/excitement-engineer/Red) - Simple to use pomodoro webapp
 
 ---
 ### Contribution
