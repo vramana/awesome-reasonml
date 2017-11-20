@@ -78,6 +78,7 @@ See the official guide [here](https://reasonml.github.io/guide/editor-tools/glob
 * [Reason Maze](https://github.com/jaredly/reason-maze) - Amazing online maze generation
 * [ReLayout](https://github.com/jordwalke/ReLayout) - Standalone CSS Flexbox Implementation in Reason
 * [Red](https://github.com/excitement-engineer/Red) - Simple to use pomodoro webapp
+* [Si](https://github.com/scottcheng/si-reason) - A 3D connect four game
 
 ---
 ### Contribution
