@@ -80,7 +80,7 @@ See the official guide [here](https://reasonml.github.io/guide/editor-tools/glob
 * [ReLayout](https://github.com/jordwalke/ReLayout) - Standalone CSS Flexbox Implementation in Reason
 * [Red](https://github.com/excitement-engineer/Red) - Simple to use pomodoro webapp
 * [Si](https://github.com/scottcheng/si-reason) - A 3D connect four game
-
+* [99.re](https://github.com/shrynx/99.re) - Solutions to 99 problems implemented in Reason
 ---
 ### Contribution
 
