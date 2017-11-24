@@ -53,6 +53,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [RED](https://github.com/frantic/red) - Native Reason/OCaml debugger
 * [bs-loader](https://github.com/reasonml-community/bs-loader) - Webpack loader for Bucklescript
 * [resuggest](https://github.com/GuillaumeSalles/resuggest) - Discover Reason functions based on examples.
+* [rollup-plugin-bucklescript](https://github.com/shrynx/rollup-plugin-bucklescript) - rollup plugin for using bucklescript
 
 #### Reason Libraries/Bindings
 * [Reasonml-community](https://github.com/reasonml-community) - Where some of the community projects live
