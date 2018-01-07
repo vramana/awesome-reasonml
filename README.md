@@ -24,7 +24,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [Discord Community](https://discord.gg/reasonml)
 
 #### Reason Starter Kits
-* [Example Project](https://reasonml.github.io/guide/javascript/quickstart)
+* [Example Project](https://reasonml.github.io/docs/en/quickstart-javascript.html)
 * [Example Native Project](https://github.com/bsansouci/bsb-native-example)
 * [Create Reason React App](https://github.com/reasonml-community/reason-scripts)
 
@@ -61,7 +61,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 
 #### Reason Editor Plugins
 
-See the official guide [here](https://reasonml.github.io/guide/editor-tools/global-installation)
+See the official guide [here](https://reasonml.github.io/docs/en/global-installation.html)
 
 ----
 ### BuckleScript
