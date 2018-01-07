@@ -18,7 +18,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 ### Reason
 #### Reason General Resources
 * [Homepage](https://reasonml.github.io/)
-* [Blog](https://reasonml.github.io/community/blog/)
+* [Blog](https://reasonml.github.io/blog/)
 * [Reason Github](https://github.com/facebook/reason)
 * [Reason Twitter](https://twitter.com/reasonml)
 * [Discord Community](https://discord.gg/reasonml)
