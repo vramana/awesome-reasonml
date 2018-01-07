@@ -65,11 +65,11 @@ See the official guide [here](https://reasonml.github.io/guide/editor-tools/glob
 
 ----
 ### BuckleScript
-* [Homepage](https://bucklescript.github.io/bucklescript/)
-* [BuckleScript Manual](https://bucklescript.github.io/bucklescript/Manual.html)
-* [Reason Playground](https://bucklescript.github.io/bucklescript/reason-demo/)
-* [BuckleScript Playground](https://bucklescript.github.io/bucklescript/js-demo/)
-* [Reasonml-community index](https://github.com/reasonml-community/index)
+* [Homepage](https://bucklescript.github.io/)
+* [BuckleScript Manual](https://bucklescript.github.io/docs/)
+* [Reason Playground](https://reasonml.github.io/en/try.html)
+* [BuckleScript Playground](https://bucklescript.github.io/bucklescript-playground/index.html)
+* [Reason package index](https://redex.github.io/)
 
 ---
 ### Example Apps
