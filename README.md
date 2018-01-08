@@ -81,6 +81,8 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 * [Red](https://github.com/excitement-engineer/Red) - Simple to use pomodoro webapp
 * [Si](https://github.com/scottcheng/si-reason) - A 3D connect four game
 * [99.re](https://github.com/shrynx/99.re) - Solutions to 99 problems implemented in Reason
+* [hasura/ReasonReact](https://hasura.io/hub/project/anirudhm/reasonml-react-todo) - Hasura quickstart for a ReasonReact Todo application making use of Hasura's Data APIs.
+
 ---
 ### Contribution
 
