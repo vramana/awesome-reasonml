@@ -59,6 +59,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 #### Reason Libraries/Bindings
 * [Reasonml-community](https://github.com/reasonml-community) - Where some of the community projects live
 * [reason-react](https://github.com/reasonml/reason-react) - React.js bindings
+* [ReForm](https://github.com/Astrocoders/reform) - Making forms sound good again
 
 #### Reason Editor Plugins
 
