@@ -84,6 +84,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 * [Si](https://github.com/scottcheng/si-reason) - A 3D connect four game
 * [99.re](https://github.com/shrynx/99.re) - Solutions to 99 problems implemented in Reason
 * [Gravitron](https://github.com/jaredly/gravitron) - A game about gravity on iOS/Android/Browser
+* [Reason Game of Life](https://github.com/alanrsoares/reasonml-game-of-life) - Conway's Game of Life written in Reason using ReasonReact. [(demo)](https://alanrsoares.github.io/reasonml-game-of-life/)
 ---
 ### Contribution
 
