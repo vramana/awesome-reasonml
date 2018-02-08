@@ -8,7 +8,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
   - [Tutorials](#reason-tutorials)
   - [Talks](#reason-talks)
   - [Tools](#reason-tools)
-  - [Libraries](#reason-libraries)
+  - [Libraries](reason-librariesbindings)
   - [Bindings](#reason-bindings)
   - [Editor Plugins](#reason-editor-plugins)
 - [BuckleScript](#bucklescript)
@@ -60,6 +60,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [Reasonml-community](https://github.com/reasonml-community) - Where some of the community projects live
 * [reason-react](https://github.com/reasonml/reason-react) - React.js bindings
 * [ReForm](https://github.com/Astrocoders/reform) - Making forms sound good again
+* [Rationale](https://github.com/jonlaing/rationale) - Ramda inspired library of helper functions for ReasonML
 
 #### Reason Editor Plugins
 
