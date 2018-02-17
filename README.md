@@ -88,6 +88,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 * [Reason Game of Life](https://github.com/alanrsoares/reasonml-game-of-life) - Conway's Game of Life written in Reason using ReasonReact. [(demo)](https://alanrsoares.github.io/reasonml-game-of-life/)
 * [ReasonML RealWorld example app](https://github.com/gothinkster/reasonml-realworld-example-app) - Medium.com clone written using ReasonReact
 * [re:bench](https://github.com/rebench/rebench.github.io) - Benchmarking playground built with ReasonReact. A real app in real use.
+* [TicTacToe ReasonML engine](https://github.com/venil7/ReasonML-TicTacToe) - Minimax Tic-Tac-Toe implementation in ReasonML
 ---
 ### Contribution
 
