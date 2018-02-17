@@ -77,7 +77,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 ---
 ### Example Apps
 * [ReasonReact example](https://github.com/reasonml-community/reason-react-example) - ReasonReact examples
-* [ReasonReact Hacker News](https://github.com/jsdf/reason-react-hacker-news) - Hacker News written in Reason
+* [ReasonReact Hacker News](https://github.com/reasonml-community/reason-react-hacker-news) - Hacker News written in Reason
 * [Mareo](https://github.com/reasonml-community/Mareo) - Online Mario game demo drawn on canvas
 * [Reason Maze](https://github.com/jaredly/reason-maze) - Amazing online maze generation
 * [ReLayout](https://github.com/jordwalke/ReLayout) - Standalone CSS Flexbox Implementation in Reason
@@ -86,6 +86,8 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 * [99.re](https://github.com/shrynx/99.re) - Solutions to 99 problems implemented in Reason
 * [Gravitron](https://github.com/jaredly/gravitron) - A game about gravity on iOS/Android/Browser
 * [Reason Game of Life](https://github.com/alanrsoares/reasonml-game-of-life) - Conway's Game of Life written in Reason using ReasonReact. [(demo)](https://alanrsoares.github.io/reasonml-game-of-life/)
+* [ReasonML RealWorld example app](https://github.com/gothinkster/reasonml-realworld-example-app) - Medium.com clone written using ReasonReact
+* [re:bench](https://github.com/rebench/rebench.github.io) - Benchmarking playground built with ReasonReact. A real app in real use.
 ---
 ### Contribution
 
