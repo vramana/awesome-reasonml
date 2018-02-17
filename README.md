@@ -27,6 +27,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [Example Project](https://reasonml.github.io/docs/en/quickstart-javascript.html)
 * [Example Native Project](https://github.com/bsansouci/bsb-native-example)
 * [Create Reason React App](https://github.com/reasonml-community/reason-scripts)
+* [Reason React lib starter kit](https://github.com/katmai7/reason-react-rollup-starter-kit)
 
 #### Reason Tutorials
 * [An Invitation to ReasonML](https://protoship.io/blog/2017/05/10/an-invitation-to-reasonml.html)
