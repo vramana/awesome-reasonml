@@ -9,6 +9,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
   - [Talks](#reason-talks)
   - [Tools](#reason-tools)
   - [Libraries/Bindings](#reason-librariesbindings)
+  - [CSS](#reason-css) 
   - [Editor Plugins](#reason-editor-plugins)
 - [BuckleScript](#bucklescript)
 - [Example Apps](#example-apps)
@@ -64,6 +65,13 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [reason-react](https://github.com/reasonml/reason-react) - React.js bindings
 * [ReForm](https://github.com/Astrocoders/reform) - Making forms sound good again
 * [Rationale](https://github.com/jonlaing/rationale) - Ramda inspired library of helper functions for ReasonML
+
+#### Reason CSS
+* [bs-react-fela](https://github.com/astrada/bs-react-fela) - Bindings for [fela](https://github.com/rofrischmann/fela)
+* [bs-css](https://github.com/SentiaAnalytics/bs-css) - CSS-in-Reason typed CSS inspired by Elm (using [glamor](https://github.com/threepointone/glamor))
+* [bs-glamor](https://github.com/poeschko/bs-glamor) - Bindings for [glamor](https://github.com/threepointone/glamor)
+* [bs-nice](https://github.com/threepointone/bs-nice) - CSS-in-Reason typed CSS by Sunil Pai ([glamor](https://github.com/threepointone/glamor) author)
+* [flex](https://github.com/jordwalke/flex) - CSS flexbox layout engine in Reason (port of Yoga)
 
 #### Reason Editor Plugins
 
