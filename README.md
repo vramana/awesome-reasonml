@@ -39,15 +39,18 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [A ReasonReact Tutorial](https://jaredforsyth.com/2017/07/05/a-reason-react-tutorial/)
 
 #### Reason Talks
+* 2017 11 - [@sgrove](https://github.com/sgrove) - [Finding joy in programming](https://vimeo.com/242081961)
+* 2017 10 - [@bassjacob](https://github.com/bassjacob/) - [Universal Reason](https://www.youtube.com/watch?v=L0xz-ILKsLE)
 * 2017 06 – [@bassjacob](https://github.com/bassjacob/) – [Node.ninjas Sydney](https://www.meetup.com/en-AU/sydney-node-ninjas/) – [Everything happens for a Reason ](https://www.youtube.com/watch?v=lLqLqFgsimQ&ab_channel=ANZCoders)
 * 2017 05 – [@chenglou](https://github.com/chenglou) – React Europe – [Imperfection](https://www.youtube.com/watch?v=tCVXp6gFD8o)
 * 2017 05 – [@chenglou](https://github.com/chenglou) – React London – [What's in a language?](https://www.youtube.com/watch?v=24S5u_4gx7w)
 * 2017 04 – [@chenglou](https://github.com/chenglou) – React Conf – [Taming the Meta Language](https://www.youtube.com/watch?v=_0T5OSSzxms)
-* Dawn of Reason - Sander Spies [slides](https://sanderspies.github.io/slides/dawn-of-reason.pdf)
-* [From Unikernels to Databases to UIs: Truly full-stack apps in OCaml](https://youtu.be/QWfHrbSqnB0) - Sean Grove
 * Reason - Phil Holden [slides](http://philholden.me.uk/reason/reason.pdf)
-* Age of Reason - Sean Grove [slides](https://sgrove.github.io/age-of-reason/)
-* How to build your first Reason App? - Peter Ferak [slides](https://docs.google.com/presentation/d/1iua5cdq5ecvj8NZqisjwhuhNb_1ljP45K9xMhgLoj8o/edit)
+* 2016 11 - [@sgrove](https://github.com/sgrove) - [Age of Reason](https://www.youtube.com/watch?v=8LCmLQ1-YqQ&t=6s) + [slides](https://sgrove.github.io/age-of-reason/)
+* 2016 11 - [@ferakpeter](https://github.com/ferakpeter) - How to build your first Reason App? - [slides](https://docs.google.com/presentation/d/1iua5cdq5ecvj8NZqisjwhuhNb_1ljP45K9xMhgLoj8o/edit)
+* 2016 ?? - Dawn of Reason - Sander Spies [slides](https://sanderspies.github.io/slides/dawn-of-reason.pdf)
+* 2016 07 - [@sgrove](https://github.com/sgrove) - [From Unikernels to Databases to UIs: Truly full-stack apps in OCaml](https://youtu.be/QWfHrbSqnB0)
+
 
 #### Reason Tools
 * [reason-tools](https://github.com/reasonml/reason-tools) - Chrome/Firefox Reason extension
