@@ -100,6 +100,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 * [ReasonML RealWorld example app](https://github.com/gothinkster/reasonml-realworld-example-app) - Medium.com clone written using ReasonReact
 * [re:bench](https://github.com/rebench/rebench.github.io) - Benchmarking playground built with ReasonReact. A real app in real use.
 * [TicTacToe ReasonML engine](https://github.com/venil7/ReasonML-TicTacToe) - Minimax Tic-Tac-Toe implementation in ReasonML
+* [Repos](https://github.com/lrosa007/repos) - Fetches Github repos by username
 ---
 ### Contribution
 
