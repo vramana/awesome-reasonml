@@ -101,6 +101,8 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 * [re:bench](https://github.com/rebench/rebench.github.io) - Benchmarking playground built with ReasonReact. A real app in real use.
 * [TicTacToe ReasonML engine](https://github.com/venil7/ReasonML-TicTacToe) - Minimax Tic-Tac-Toe implementation in ReasonML
 * [Repos](https://github.com/lrosa007/repos) - Fetches Github repos by username
+* [Re-Memory](https://github.com/dtasic/re-memory) - Memory game in ReasonReact
+
 ---
 ### Contribution
 
