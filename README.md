@@ -9,7 +9,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
   - [Talks](#reason-talks)
   - [Tools](#reason-tools)
   - [Libraries/Bindings](#reason-librariesbindings)
-  - [CSS](#reason-css) 
+  - [CSS](#reason-css)
   - [Editor Plugins](#reason-editor-plugins)
 - [BuckleScript](#bucklescript)
 - [Example Apps](#example-apps)
@@ -102,6 +102,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 * [ReasonML RealWorld example app](https://github.com/gothinkster/reasonml-realworld-example-app) - Medium.com clone written using ReasonReact
 * [re:bench](https://github.com/rebench/rebench.github.io) - Benchmarking playground built with ReasonReact. A real app in real use.
 * [TicTacToe ReasonML engine](https://github.com/venil7/ReasonML-TicTacToe) - Minimax Tic-Tac-Toe implementation in ReasonML
+* [reason-chess](https://github.com/venil7/reason-chess) - Chess engine for multiple platforms and web example chess game. [(demo)](http://darkruby.co.uk/reason-chess/)
 * [Repos](https://github.com/lrosa007/repos) - Fetches Github repos by username
 * [Re-Memory](https://github.com/dtasic/re-memory) - Memory game in ReasonReact
 * [Reason Reversi Game](https://github.com/marmelab/reversi-reason) - Reversi Game in ReasonReact
