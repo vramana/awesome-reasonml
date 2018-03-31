@@ -65,6 +65,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [reason-react](https://github.com/reasonml/reason-react) - React.js bindings
 * [ReForm](https://github.com/Astrocoders/reform) - Making forms sound good again
 * [Rationale](https://github.com/jonlaing/rationale) - Ramda inspired library of helper functions for ReasonML
+* [Formality](https://github.com/alexfedoseev/re-formality) - Form validation tool focused on the great UX
 
 #### Reason CSS
 * [bs-react-fela](https://github.com/astrada/bs-react-fela) - Bindings for [fela](https://github.com/rofrischmann/fela)
@@ -72,6 +73,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [bs-glamor](https://github.com/poeschko/bs-glamor) - Bindings for [glamor](https://github.com/threepointone/glamor)
 * [bs-nice](https://github.com/threepointone/bs-nice) - CSS-in-Reason typed CSS by Sunil Pai ([glamor](https://github.com/threepointone/glamor) author)
 * [flex](https://github.com/jordwalke/flex) - CSS flexbox layout engine in Reason (port of Yoga)
+* [re-classnames](https://github.com/alexfedoseev/re-classnames) - Simple reimplementation of [classnames](https://github.com/JedWatson/classnames) in ReasonML
 
 #### Reason Editor Plugins
 
