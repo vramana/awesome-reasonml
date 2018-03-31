@@ -102,6 +102,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 * [TicTacToe ReasonML engine](https://github.com/venil7/ReasonML-TicTacToe) - Minimax Tic-Tac-Toe implementation in ReasonML
 * [Repos](https://github.com/lrosa007/repos) - Fetches Github repos by username
 * [Re-Memory](https://github.com/dtasic/re-memory) - Memory game in ReasonReact
+* [Reason Reversi Game](https://github.com/marmelab/reversi-reason) - Reversi Game in ReasonReact
 
 ---
 ### Contribution
