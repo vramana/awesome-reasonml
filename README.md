@@ -105,6 +105,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 * [reason-chess](https://github.com/venil7/reason-chess) - Chess engine for multiple platforms and web example chess game. [(demo)](http://darkruby.co.uk/reason-chess/)
 * [Repos](https://github.com/lrosa007/repos) - Fetches Github repos by username
 * [Re-Memory](https://github.com/dtasic/re-memory) - Memory game in ReasonReact
+* [Another memory cards game](https://github.com/liubko/reason-memory-gifs) - Memory cards game with GIFs [(demo)](https://liubko.github.io/reason-memory-gifs/)
 * [Reason Reversi Game](https://github.com/marmelab/reversi-reason) - Reversi Game in ReasonReact
 * [Snake](https://github.com/rdavison/llama-snake/tree/master/websnake) - Snake game in ReasonReact [(demo)](http://192.241.133.216/projects/websnake/index.html)
 
