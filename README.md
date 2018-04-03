@@ -106,6 +106,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 * [Repos](https://github.com/lrosa007/repos) - Fetches Github repos by username
 * [Re-Memory](https://github.com/dtasic/re-memory) - Memory game in ReasonReact
 * [Reason Reversi Game](https://github.com/marmelab/reversi-reason) - Reversi Game in ReasonReact
+* [Snake](https://github.com/rdavison/llama-snake/tree/master/websnake) - Snake game in ReasonReact [(demo)](http://192.241.133.216/projects/websnake/index.html)
 
 ---
 ### Contribution
