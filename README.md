@@ -34,6 +34,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [Armed with Reason](http://kcsrk.info/reason/arm/2016/05/16/armed-with-reason/) - Target Raspberry PI
 * [Intro to Reason Compilation](https://github.com/chenglou/intro-to-reason-compilation)
 * [Exploring ReasonML](http://reasonmlhub.com/exploring-reasonml/toc.html)
+* [Build Tic-Tac-Toe with ReasonML](https://medium.freecodecamp.org/learn-reasonml-by-building-tic-tac-toe-in-react-334203dd513c)
 
 ##### ReasonReact
 * [A First ReasonReact App for JS Developers](https://jamesfriend.com.au/a-first-reason-react-app-for-js-developers)
