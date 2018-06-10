@@ -112,6 +112,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 * [Snake](https://github.com/rdavison/llama-snake/tree/master/websnake) - Snake game in ReasonReact [(demo)](http://192.241.133.216/projects/websnake/index.html)
 * [ReasonML CRUD example](https://github.com/monadoy/reasonml-crud-example) - RealWorld CRUD entity example
 * [Dokusho](https://github.com/rawtoast/dokusho) - CRUD example with authentication, react toolbox, and CI.
+* [A* pathfinder maze](https://github.com/puemos/reasonml-astar-maze) -  A* search algorithm written in ReasonML [(demo)](https://puemos.github.io/reasonml-astar-maze)
 
 ---
 ### Contribution
