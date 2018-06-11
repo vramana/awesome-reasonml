@@ -35,12 +35,14 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [Intro to Reason Compilation](https://github.com/chenglou/intro-to-reason-compilation)
 * [Exploring ReasonML](http://reasonmlhub.com/exploring-reasonml/toc.html)
 * [Build Tic-Tac-Toe with ReasonML](https://medium.freecodecamp.org/learn-reasonml-by-building-tic-tac-toe-in-react-334203dd513c)
+* [Get Started with Reason (Free Video Course)](https://egghead.io/courses/get-started-with-reason)
 
 ##### ReasonReact
 * [A First ReasonReact App for JS Developers](https://jamesfriend.com.au/a-first-reason-react-app-for-js-developers)
 * [A ReasonReact Tutorial](https://jaredforsyth.com/2017/07/05/a-reason-react-tutorial/)
 
 #### Reason Talks
+* 2018 05 – [@cristianoc](https://github.com/cristianoc) – React Europe – [ReasonReact and local state](https://www.youtube.com/watch?v=qJnP-Vatp3M)
 * 2017 11 - [@sgrove](https://github.com/sgrove) - [Finding joy in programming](https://vimeo.com/242081961)
 * 2017 10 - [@bassjacob](https://github.com/bassjacob/) - [Universal Reason](https://www.youtube.com/watch?v=L0xz-ILKsLE)
 * 2017 06 – [@bassjacob](https://github.com/bassjacob/) – [Node.ninjas Sydney](https://www.meetup.com/en-AU/sydney-node-ninjas/) – [Everything happens for a Reason ](https://www.youtube.com/watch?v=lLqLqFgsimQ&ab_channel=ANZCoders)
@@ -112,6 +114,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 * [Snake](https://github.com/rdavison/llama-snake/tree/master/websnake) - Snake game in ReasonReact [(demo)](http://192.241.133.216/projects/websnake/index.html)
 * [ReasonML CRUD example](https://github.com/monadoy/reasonml-crud-example) - RealWorld CRUD entity example
 * [Dokusho](https://github.com/rawtoast/dokusho) - CRUD example with authentication, react toolbox, and CI.
+* [A* pathfinder maze](https://github.com/puemos/reasonml-astar-maze) -  A* search algorithm written in ReasonML [(demo)](https://puemos.github.io/reasonml-astar-maze)
 
 ---
 ### Contribution
