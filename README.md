@@ -117,6 +117,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 * [ReasonML CRUD example](https://github.com/monadoy/reasonml-crud-example) - RealWorld CRUD entity example
 * [Dokusho](https://github.com/rawtoast/dokusho) - CRUD example with authentication, react toolbox, and CI.
 * [A* pathfinder maze](https://github.com/puemos/reasonml-astar-maze) -  A* search algorithm written in ReasonML [(demo)](https://puemos.github.io/reasonml-astar-maze)
+* [ReasonSplash](https://github.com/smartlogic/reasonsplash) - Unsplash mobile client in Reason
 
 ---
 ### Contribution
