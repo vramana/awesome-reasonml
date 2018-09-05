@@ -118,6 +118,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 * [Dokusho](https://github.com/rawtoast/dokusho) - CRUD example with authentication, react toolbox, and CI.
 * [A* pathfinder maze](https://github.com/puemos/reasonml-astar-maze) -  A* search algorithm written in ReasonML [(demo)](https://puemos.github.io/reasonml-astar-maze)
 * [Reatris: ReasonReact tetris](https://github.com/denis-ok/reasonml-reatris) - Classic tetris game written on ReasonReact [(demo)](https://denis-ok.github.io/reasonml-reatris/)
+* [ReasonSplash](https://github.com/smartlogic/reasonsplash) - Unsplash mobile client in Reason
 
 ---
 ### Contribution
