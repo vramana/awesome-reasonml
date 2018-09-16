@@ -71,6 +71,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [ReForm](https://github.com/Astrocoders/reform) - Making forms sound good again
 * [Rationale](https://github.com/jonlaing/rationale) - Ramda inspired library of helper functions for ReasonML
 * [Formality](https://github.com/alexfedoseev/re-formality) - Form validation tool focused on the great UX
+* [RemoteData](https://github.com/lrosa007/remotedata-re) - Tools for fetching data from remote sources
 
 #### Reason CSS
 * [bs-react-fela](https://github.com/astrada/bs-react-fela) - Bindings for [fela](https://github.com/rofrischmann/fela)
