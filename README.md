@@ -73,6 +73,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [Formality](https://github.com/alexfedoseev/re-formality) - Form validation tool focused on the great UX
 * [RemoteData](https://github.com/lrosa007/remotedata-re) - Tools for fetching data from remote sources
 * [bs-ant-design](https://github.com/thangngoc89/bs-ant-design) - React Ant design bindings.
+* [reason-powerplug](https://github.com/beizhedenglong/reason-powerplug) - Renderless containers for ReasonReact.
 
 #### Reason CSS
 * [bs-react-fela](https://github.com/astrada/bs-react-fela) - Bindings for [fela](https://github.com/rofrischmann/fela)
