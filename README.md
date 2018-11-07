@@ -123,6 +123,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 * [A* pathfinder maze](https://github.com/puemos/reasonml-astar-maze) -  A* search algorithm written in ReasonML [(demo)](https://puemos.github.io/reasonml-astar-maze)
 * [Reatris: ReasonReact tetris](https://github.com/denis-ok/reasonml-reatris) - Classic tetris game written on ReasonReact [(demo)](https://denis-ok.github.io/reasonml-reatris/)
 * [ReasonSplash](https://github.com/smartlogic/reasonsplash) - Unsplash mobile client in Reason
+* [Simple Calculator](https://github.com/jimmyhuco/simple-calculator) - It's another calculator written on ReasonReact [(demo)](https://jimmyhuco.github.io/simple-calculator)
 
 ---
 ### Contribution
