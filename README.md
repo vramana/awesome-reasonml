@@ -76,6 +76,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [bs-ant-design](https://github.com/thangngoc89/bs-ant-design) - React Ant design bindings.
 * [reason-powerplug](https://github.com/beizhedenglong/reason-powerplug) - Renderless containers for ReasonReact.
 * [rembrandt](https://github.com/przemyslawjanpietrzak/rembrandt) - Simple functional UI framework written in Reasonml.
+* [ReDate](https://github.com/mobily/re-date) - 📆 A collection of useful helpers for handling dates in ReasonML with the same modern API as the well-known `date-fns`
 
 #### Reason CSS
 * [bs-react-fela](https://github.com/astrada/bs-react-fela) - Bindings for [fela](https://github.com/rofrischmann/fela)
