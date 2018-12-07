@@ -42,6 +42,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 ##### ReasonReact
 * [A First ReasonReact App for JS Developers](https://jamesfriend.com.au/a-first-reason-react-app-for-js-developers)
 * [A ReasonReact Tutorial](https://jaredforsyth.com/2017/07/05/a-reason-react-tutorial/)
+* [Another ReasonReact Tutorial for Beginners](https://www.robinwieruch.de/reason-react-tutorial/)
 
 #### Reason Talks
 * 2018 05 – [@cristianoc](https://github.com/cristianoc) – React Europe – [ReasonReact and local state](https://www.youtube.com/watch?v=qJnP-Vatp3M)
