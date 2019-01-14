@@ -127,6 +127,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 * [Reatris: ReasonReact tetris](https://github.com/denis-ok/reasonml-reatris) - Classic tetris game written on ReasonReact [(demo)](https://denis-ok.github.io/reasonml-reatris/)
 * [ReasonSplash](https://github.com/smartlogic/reasonsplash) - Unsplash mobile client in Reason
 * [Simple Calculator](https://github.com/jimmyhuco/simple-calculator) - It's another calculator written on ReasonReact [(demo)](https://jimmyhuco.github.io/simple-calculator)
+* [Bouken](https://github.com/rawtoast/bouken) - ASCII rogue written using ReasonReact. [(demo)](https://bouken-dtangmsuhe.now.sh)
 
 ---
 ### Contribution
