@@ -38,6 +38,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [Exploring ReasonML](http://reasonmlhub.com/exploring-reasonml/toc.html)
 * [Build Tic-Tac-Toe with ReasonML](https://medium.freecodecamp.org/learn-reasonml-by-building-tic-tac-toe-in-react-334203dd513c)
 * [Get Started with Reason (Free Video Course)](https://egghead.io/courses/get-started-with-reason)
+* [Build a Simon Game in ReasonReact](https://medium.com/@arecvlohe/lets-build-a-simon-game-in-reasonreact-pt-1-randos-c6db32bf4c1)
 
 ##### ReasonReact
 * [A First ReasonReact App for JS Developers](https://jamesfriend.com.au/a-first-reason-react-app-for-js-developers)
@@ -128,6 +129,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 * [ReasonSplash](https://github.com/smartlogic/reasonsplash) - Unsplash mobile client in Reason
 * [Simple Calculator](https://github.com/jimmyhuco/simple-calculator) - It's another calculator written on ReasonReact [(demo)](https://jimmyhuco.github.io/simple-calculator)
 * [Bouken](https://github.com/rawtoast/bouken) - ASCII rogue written using ReasonReact. [(demo)](https://bouken-dtangmsuhe.now.sh)
+* [Simon Game](https://github.com/arecvlohe/reason-react-simon-game/tree/master) - The handheld Simon game written in ReasonReact
 
 ---
 ### Contribution
