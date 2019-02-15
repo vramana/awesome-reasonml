@@ -79,7 +79,6 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [reason-powerplug](https://github.com/beizhedenglong/reason-powerplug) - Renderless containers for ReasonReact.
 * [rembrandt](https://github.com/przemyslawjanpietrzak/rembrandt) - Simple functional UI framework written in Reasonml.
 * [ReDate](https://github.com/mobily/re-date) - 📆 A collection of useful helpers for handling dates in ReasonML with the same modern API as the well-known `date-fns`
-* [rx-reason](https://github.com/bordoley/rx-reason) - Reactive programming library for ReasonML/OCaml
 * [bs-typing](https://github.com/arecvlohe/bs-typing) - Typed.js bindings
 
 #### Reason CSS
