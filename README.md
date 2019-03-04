@@ -100,6 +100,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 * [Reason Playground](https://reasonml.github.io/en/try.html)
 * [BuckleScript Playground](https://bucklescript.github.io/bucklescript-playground/index.html)
 * [Reason package index](https://redex.github.io/)
+* [`[@bs.blabla]` attributes explained with examples](https://github.com/moroshko/bs-blabla)
 
 ---
 ### Example Apps
