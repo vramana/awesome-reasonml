@@ -89,6 +89,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [bs-nice](https://github.com/threepointone/bs-nice) - CSS-in-Reason typed CSS by Sunil Pai ([glamor](https://github.com/threepointone/glamor) author)
 * [flex](https://github.com/jordwalke/flex) - CSS flexbox layout engine in Reason (port of Yoga)
 * [re-classnames](https://github.com/alexfedoseev/re-classnames) - Simple reimplementation of [classnames](https://github.com/JedWatson/classnames) in ReasonML
+* [reason-css-modules-loader](https://github.com/sainthkh/reason-css-modules-loader) - Drop-in replacement for [css-loader](https://github.com/webpack-contrib/css-loader).
 
 #### Reason Editor Plugins
 
