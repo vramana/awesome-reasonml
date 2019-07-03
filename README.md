@@ -134,6 +134,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 * [Simple Calculator](https://github.com/jimmyhuco/simple-calculator) - It's another calculator written on ReasonReact [(demo)](https://jimmyhuco.github.io/simple-calculator)
 * [Bouken](https://github.com/rawtoast/bouken) - ASCII rogue written using ReasonReact. [(demo)](https://bouken-dtangmsuhe.now.sh)
 * [Simon Game](https://github.com/arecvlohe/reason-react-simon-game/tree/master) - The handheld Simon game written in ReasonReact
+* [We Write](https://github.com/leomayleomay/we-write-app) - the App utilizes Github API as the backend, so non-tech writers could collaborate
 
 ---
 ### Contribution
