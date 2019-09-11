@@ -135,6 +135,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 * [Bouken](https://github.com/rawtoast/bouken) - ASCII rogue written using ReasonReact. [(demo)](https://bouken-dtangmsuhe.now.sh)
 * [Simon Game](https://github.com/arecvlohe/reason-react-simon-game/tree/master) - The handheld Simon game written in ReasonReact
 * [We Write](https://github.com/leomayleomay/we-write-app) - the App utilizes Github API as the backend, so non-tech writers could collaborate
+* [Coronate](https://github.com/johnridesabike/coronate) - A Swiss-style chess tournament manager for the web and desktop, written with ReasonReact. [(web demo)](https://johnridesa.bike/coronate/)
 
 ---
 ### Contribution
