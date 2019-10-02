@@ -81,6 +81,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [ReDate](https://github.com/mobily/re-date) - 📆 A collection of useful helpers for handling dates in ReasonML with the same modern API as the well-known `date-fns`
 * [bs-typing](https://github.com/arecvlohe/bs-typing) - Typed.js bindings
 * [reasonql](https://github.com/sainthkh/reasonql) - Type-safe and simple GraphQL client for ReasonML
+* [restorative](https://github.com/paulshen/restorative) - Simple ReasonML state management
 
 #### Reason CSS
 * [bs-react-fela](https://github.com/astrada/bs-react-fela) - Bindings for [fela](https://github.com/rofrischmann/fela)
