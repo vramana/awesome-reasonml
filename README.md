@@ -46,6 +46,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [Another ReasonReact Tutorial for Beginners](https://www.robinwieruch.de/reason-react-tutorial/)
 
 #### Reason Talks
+* 2019 09 - [@flaviocorpa](https://github.com/kutyel) - LambdAle - [What happens if you let the creator of React design a programming language](https://youtu.be/5IcG_BCGxEY)
 * 2018 05 – [@cristianoc](https://github.com/cristianoc) – React Europe – [ReasonReact and local state](https://www.youtube.com/watch?v=qJnP-Vatp3M)
 * 2017 11 - [@sgrove](https://github.com/sgrove) - [Finding joy in programming](https://vimeo.com/242081961)
 * 2017 10 - [@bassjacob](https://github.com/bassjacob/) - [Universal Reason](https://www.youtube.com/watch?v=L0xz-ILKsLE)
@@ -107,6 +108,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 
 ---
 ### Example Apps
+* [Reason Catstagram](https://github.com/kutyel/reason-catstagram) - A Catstagram built with Reason and React hooks!
 * [ReasonReact example](https://github.com/reasonml-community/reason-react-example) - ReasonReact examples
 * [ReasonReact Hacker News](https://github.com/reasonml-community/reason-react-hacker-news) - Hacker News written in Reason
 * [Mareo](https://github.com/reasonml-community/Mareo) - Online Mario game demo drawn on canvas
