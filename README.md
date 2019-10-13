@@ -94,7 +94,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 
 #### Reason Editor Plugins
 
-See the official guide [here](https://reasonml.github.io/docs/en/global-installation.html)
+See the official guide [here](https://reasonml.github.io/docs/en/editor-plugins)
 
 ----
 ### BuckleScript
