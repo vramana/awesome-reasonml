@@ -39,6 +39,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [Build Tic-Tac-Toe with ReasonML](https://medium.freecodecamp.org/learn-reasonml-by-building-tic-tac-toe-in-react-334203dd513c)
 * [Get Started with Reason (Free Video Course)](https://egghead.io/courses/get-started-with-reason)
 * [Build a Simon Game in ReasonReact](https://medium.com/@arecvlohe/lets-build-a-simon-game-in-reasonreact-pt-1-randos-c6db32bf4c1)
+* [Implement a chart layout algorithm in ReasonML](https://www.huy.dev/squarified-tree-map-reasonml-part-1-2019-03/)
 
 ##### ReasonReact
 * [A First ReasonReact App for JS Developers](https://jamesfriend.com.au/a-first-reason-react-app-for-js-developers)
