@@ -48,6 +48,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 
 #### Reason Talks
 * 2019 09 - [@flaviocorpa](https://github.com/kutyel) - LambdAle - [What happens if you let the creator of React design a programming language](https://youtu.be/5IcG_BCGxEY)
+* 2019 08 - [@jordwalke](https://github.com/jordwalke) - ReasonConf US - [React to the Future](https://www.youtube.com/watch?v=5fG_lyNuEAw)
 * 2018 05 – [@cristianoc](https://github.com/cristianoc) – React Europe – [ReasonReact and local state](https://www.youtube.com/watch?v=qJnP-Vatp3M)
 * 2017 11 - [@sgrove](https://github.com/sgrove) - [Finding joy in programming](https://vimeo.com/242081961)
 * 2017 10 - [@bassjacob](https://github.com/bassjacob/) - [Universal Reason](https://www.youtube.com/watch?v=L0xz-ILKsLE)
