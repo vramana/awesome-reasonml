@@ -85,6 +85,9 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [bs-typing](https://github.com/arecvlohe/bs-typing) - Typed.js bindings
 * [reasonql](https://github.com/sainthkh/reasonql) - Type-safe and simple GraphQL client for ReasonML
 * [restorative](https://github.com/paulshen/restorative) - Simple ReasonML state management
+* [bs-rx](https://github.com/ambientlight/bs-rx) - Reactive extensions(RxJS) in ReasonML
+* [bs-pixi](https://github.com/ambientlight/bs-pixi) - PixiJS(2D WebGL rendering) in ReasonML.  
+
 
 #### Reason CSS
 * [bs-react-fela](https://github.com/astrada/bs-react-fela) - Bindings for [fela](https://github.com/rofrischmann/fela)
