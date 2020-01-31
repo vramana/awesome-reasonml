@@ -9,6 +9,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
   - [Talks](#reason-talks)
   - [Tools](#reason-tools)
   - [Libraries/Bindings](#reason-librariesbindings)
+  - [PPX](#reason-ppx)
   - [CSS](#reason-css)
   - [Editor Plugins](#reason-editor-plugins)
 - [BuckleScript](#bucklescript)
@@ -87,7 +88,11 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [restorative](https://github.com/paulshen/restorative) - Simple ReasonML state management
 * [bs-rx](https://github.com/ambientlight/bs-rx) - Reactive extensions(RxJS) in ReasonML
 * [bs-pixi](https://github.com/ambientlight/bs-pixi) - PixiJS(2D WebGL rendering) in ReasonML.  
+* [relude](https://github.com/reazen/relude) - FP-inspired prelude/standard library for ReasonML projects.
 
+#### PPX
+
+* [bs-let](https://github.com/reasonml-labs/bs-let) - A PPX for async/await (and general monadic binding) in ReasonML.
 
 #### Reason CSS
 * [bs-react-fela](https://github.com/astrada/bs-react-fela) - Bindings for [fela](https://github.com/rofrischmann/fela)
@@ -126,6 +131,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/editor-plugins)
 * [Reason Game of Life](https://github.com/alanrsoares/reasonml-game-of-life) - Conway's Game of Life written in Reason using ReasonReact. [(demo)](https://alanrsoares.github.io/reasonml-game-of-life/)
 * [2048 Reasons](https://github.com/alanrsoares/2048-reasons) - A functional implementation of the viral 2048 game in Reason using ReasonReact. [(demo)](https://alanrsoares.github.io/2048-reasons/)
 * [ReasonML RealWorld example app](https://github.com/gothinkster/reasonml-realworld-example-app) - Medium.com clone written using ReasonReact
+* [ReasonML RealWorld example app #2](https://github.com/jihchi/reason-react-realworld-example-app) - Another Medium.com clone written using ReasonReact
 * [re:bench](https://github.com/rebench/rebench.github.io) - Benchmarking playground built with ReasonReact. A real app in real use.
 * [TicTacToe ReasonML engine](https://github.com/venil7/ReasonML-TicTacToe) - Minimax Tic-Tac-Toe implementation in ReasonML
 * [reason-chess](https://github.com/venil7/reason-chess) - Chess engine for multiple platforms and web example chess game. [(demo)](http://darkruby.co.uk/reason-chess/)
