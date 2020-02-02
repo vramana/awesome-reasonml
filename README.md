@@ -90,7 +90,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [bs-pixi](https://github.com/ambientlight/bs-pixi) - PixiJS(2D WebGL rendering) in ReasonML.  
 * [relude](https://github.com/reazen/relude) - FP-inspired prelude/standard library for ReasonML projects.
 
-#### PPX
+#### Reason PPX
 
 * [bs-let](https://github.com/reasonml-labs/bs-let) - A PPX for async/await (and general monadic binding) in ReasonML.
 
