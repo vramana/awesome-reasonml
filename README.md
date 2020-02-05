@@ -113,7 +113,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/editor-plugins)
 * [bs-json](https://github.com/glennsl/bs-json) - Compositional JSON encode/decode library for BuckleScript
 * [milk](https://github.com/jaredly/milk) - Milk 🥛 Stress-free serialization & deserialization for Reason/OCaml
 * [ocaml-decoders](https://github.com/mattjbray/ocaml-decoders) - Elm-inspired decoders for Ocaml
-* [decco](https://github.com/reasonml-labs/decco) - https://github.com/reasonml-labs/decco
+* [decco](https://github.com/reasonml-labs/decco) - Bucklescript PPX which generates JSON (de)serializers for user-defined types
 * [atd](https://github.com/ahrefs/atd) - Static types for JSON APIs
 
 ----
