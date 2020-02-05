@@ -13,7 +13,6 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
   - [CSS](#reason-css)
   - [Editor Plugins](#reason-editor-plugins)
   - [Encode and decode JSON](#encode-and-decode-json)
-
 - [BuckleScript](#bucklescript)
 - [Example Apps](#example-apps)
 - [Contribution](#contribution)
