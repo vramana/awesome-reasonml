@@ -12,6 +12,8 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
   - [PPX](#reason-ppx)
   - [CSS](#reason-css)
   - [Editor Plugins](#reason-editor-plugins)
+  - [Encode and decode JSON](#encode-and-decode-json)
+
 - [BuckleScript](#bucklescript)
 - [Example Apps](#example-apps)
 - [Contribution](#contribution)
@@ -107,6 +109,13 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 #### Reason Editor Plugins
 
 See the official guide [here](https://reasonml.github.io/docs/en/editor-plugins)
+
+#### Encode and decode JSON
+* [bs-json](https://github.com/glennsl/bs-json) - Compositional JSON encode/decode library for BuckleScript
+* [milk](https://github.com/jaredly/milk) - Milk 🥛 Stress-free serialization & deserialization for Reason/OCaml
+* [ocaml-decoders](https://github.com/mattjbray/ocaml-decoders) - Elm-inspired decoders for Ocaml
+* [decco](https://github.com/reasonml-labs/decco) - https://github.com/reasonml-labs/decco
+* [atd](https://github.com/ahrefs/atd) - Static types for JSON APIs
 
 ----
 ### BuckleScript
