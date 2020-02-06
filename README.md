@@ -114,6 +114,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/editor-plugins)
 * [ocaml-decoders](https://github.com/mattjbray/ocaml-decoders) - Elm-inspired decoders for Ocaml
 * [decco](https://github.com/reasonml-labs/decco) - Bucklescript PPX which generates JSON (de)serializers for user-defined types
 * [atd](https://github.com/ahrefs/atd) - Static types for JSON APIs
+* [bs-decode](https://github.com/mlms13/bs-decode) - Type-safe JSON decoding for ReasonML and OCaml ([documentation site](https://mlms13.github.io/bs-decode/docs/what-and-why))
 
 ----
 ### BuckleScript
