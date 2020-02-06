@@ -28,7 +28,6 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 #### Reason Starter Kits
 * [Example Project](https://reasonml.github.io/docs/en/installation)
 * [Example Native Project](https://github.com/bsansouci/bsb-native-example)
-* [Create Reason React App](https://github.com/reasonml-community/reason-scripts)
 * [Reason React lib starter kit](https://github.com/katmai7/reason-react-rollup-starter-kit)
 * [ReasonReact Playground on Glitch](https://glitch.com/~glitch-reason-react)
 * [Reason + Express.js boilerplate](https://github.com/lalnuo/reasonml-express-boilerplate)
