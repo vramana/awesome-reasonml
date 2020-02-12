@@ -93,6 +93,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 #### Reason PPX
 
 * [bs-let](https://github.com/reasonml-labs/bs-let) - A PPX for async/await (and general monadic binding) in ReasonML.
+* [graphql_ppx](https://github.com/reasonml-community/graphql_ppx) - GraphQL PPX rewriter for Bucklescript/ReasonML written in ReasonML.
 
 #### Reason CSS
 * [bs-react-fela](https://github.com/astrada/bs-react-fela) - Bindings for [fela](https://github.com/rofrischmann/fela)
