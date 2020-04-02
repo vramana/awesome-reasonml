@@ -9,8 +9,10 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
   - [Talks](#reason-talks)
   - [Tools](#reason-tools)
   - [Libraries/Bindings](#reason-librariesbindings)
+  - [PPX](#reason-ppx)
   - [CSS](#reason-css)
   - [Editor Plugins](#reason-editor-plugins)
+  - [Encode and decode JSON](#encode-and-decode-json)
 - [BuckleScript](#bucklescript)
 - [Example Apps](#example-apps)
 - [Contribution](#contribution)
@@ -26,7 +28,6 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 #### Reason Starter Kits
 * [Example Project](https://reasonml.github.io/docs/en/installation)
 * [Example Native Project](https://github.com/bsansouci/bsb-native-example)
-* [Create Reason React App](https://github.com/reasonml-community/reason-scripts)
 * [Reason React lib starter kit](https://github.com/katmai7/reason-react-rollup-starter-kit)
 * [ReasonReact Playground on Glitch](https://glitch.com/~glitch-reason-react)
 * [Reason + Express.js boilerplate](https://github.com/lalnuo/reasonml-express-boilerplate)
@@ -39,6 +40,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [Build Tic-Tac-Toe with ReasonML](https://medium.freecodecamp.org/learn-reasonml-by-building-tic-tac-toe-in-react-334203dd513c)
 * [Get Started with Reason (Free Video Course)](https://egghead.io/courses/get-started-with-reason)
 * [Build a Simon Game in ReasonReact](https://medium.com/@arecvlohe/lets-build-a-simon-game-in-reasonreact-pt-1-randos-c6db32bf4c1)
+* [Implement a chart layout algorithm in ReasonML](https://www.huy.dev/squarified-tree-map-reasonml-part-1-2019-03/)
 
 ##### ReasonReact
 * [A First ReasonReact App for JS Developers](https://jamesfriend.com.au/a-first-reason-react-app-for-js-developers)
@@ -46,6 +48,8 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [Another ReasonReact Tutorial for Beginners](https://www.robinwieruch.de/reason-react-tutorial/)
 
 #### Reason Talks
+* 2019 09 - [@flaviocorpa](https://github.com/kutyel) - LambdAle - [What happens if you let the creator of React design a programming language](https://youtu.be/5IcG_BCGxEY)
+* 2019 08 - [@jordwalke](https://github.com/jordwalke) - ReasonConf US - [React to the Future](https://www.youtube.com/watch?v=5fG_lyNuEAw)
 * 2018 05 – [@cristianoc](https://github.com/cristianoc) – React Europe – [ReasonReact and local state](https://www.youtube.com/watch?v=qJnP-Vatp3M)
 * 2017 11 - [@sgrove](https://github.com/sgrove) - [Finding joy in programming](https://vimeo.com/242081961)
 * 2017 10 - [@bassjacob](https://github.com/bassjacob/) - [Universal Reason](https://www.youtube.com/watch?v=L0xz-ILKsLE)
@@ -81,6 +85,15 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [ReDate](https://github.com/mobily/re-date) - 📆 A collection of useful helpers for handling dates in ReasonML with the same modern API as the well-known `date-fns`
 * [bs-typing](https://github.com/arecvlohe/bs-typing) - Typed.js bindings
 * [reasonql](https://github.com/sainthkh/reasonql) - Type-safe and simple GraphQL client for ReasonML
+* [restorative](https://github.com/paulshen/restorative) - Simple ReasonML state management
+* [bs-rx](https://github.com/ambientlight/bs-rx) - Reactive extensions(RxJS) in ReasonML
+* [bs-pixi](https://github.com/ambientlight/bs-pixi) - PixiJS(2D WebGL rendering) in ReasonML.  
+* [relude](https://github.com/reazen/relude) - FP-inspired prelude/standard library for ReasonML projects.
+
+#### Reason PPX
+
+* [bs-let](https://github.com/reasonml-labs/bs-let) - A PPX for async/await (and general monadic binding) in ReasonML.
+* [graphql_ppx](https://github.com/reasonml-community/graphql_ppx) - GraphQL PPX rewriter for Bucklescript/ReasonML written in ReasonML.
 
 #### Reason CSS
 * [bs-react-fela](https://github.com/astrada/bs-react-fela) - Bindings for [fela](https://github.com/rofrischmann/fela)
@@ -90,11 +103,20 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [flex](https://github.com/jordwalke/flex) - CSS flexbox layout engine in Reason (port of Yoga)
 * [re-classnames](https://github.com/alexfedoseev/re-classnames) - Simple reimplementation of [classnames](https://github.com/JedWatson/classnames) in ReasonML
 * [reason-css-modules-loader](https://github.com/sainthkh/reason-css-modules-loader) - Drop-in replacement for [css-loader](https://github.com/webpack-contrib/css-loader).
+* [re-tailwind](https://github.com/phthhieu/re-tailwind) - Brings TailwindCSS to ReasonML.
 * [styled-ppx](https://github.com/davesnx/styled-ppx) - CSS-in-Reason that mimics [styled-components](https://github.com/styled-components/styled-components)
 
 #### Reason Editor Plugins
 
-See the official guide [here](https://reasonml.github.io/docs/en/global-installation.html)
+See the official guide [here](https://reasonml.github.io/docs/en/editor-plugins)
+
+#### Encode and decode JSON
+* [bs-json](https://github.com/glennsl/bs-json) - Compositional JSON encode/decode library for BuckleScript
+* [milk](https://github.com/jaredly/milk) - Milk 🥛 Stress-free serialization & deserialization for Reason/OCaml
+* [ocaml-decoders](https://github.com/mattjbray/ocaml-decoders) - Elm-inspired decoders for Ocaml
+* [decco](https://github.com/reasonml-labs/decco) - Bucklescript PPX which generates JSON (de)serializers for user-defined types
+* [atd](https://github.com/ahrefs/atd) - Static types for JSON APIs
+* [bs-decode](https://github.com/mlms13/bs-decode) - Type-safe JSON decoding for ReasonML and OCaml ([documentation site](https://mlms13.github.io/bs-decode/docs/what-and-why))
 
 ----
 ### BuckleScript
@@ -107,6 +129,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 
 ---
 ### Example Apps
+* [Reason Catstagram](https://github.com/kutyel/reason-catstagram) - A Catstagram built with Reason and React hooks!
 * [ReasonReact example](https://github.com/reasonml-community/reason-react-example) - ReasonReact examples
 * [ReasonReact Hacker News](https://github.com/reasonml-community/reason-react-hacker-news) - Hacker News written in Reason
 * [Mareo](https://github.com/reasonml-community/Mareo) - Online Mario game demo drawn on canvas
@@ -119,6 +142,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/global-installa
 * [Reason Game of Life](https://github.com/alanrsoares/reasonml-game-of-life) - Conway's Game of Life written in Reason using ReasonReact. [(demo)](https://alanrsoares.github.io/reasonml-game-of-life/)
 * [2048 Reasons](https://github.com/alanrsoares/2048-reasons) - A functional implementation of the viral 2048 game in Reason using ReasonReact. [(demo)](https://alanrsoares.github.io/2048-reasons/)
 * [ReasonML RealWorld example app](https://github.com/gothinkster/reasonml-realworld-example-app) - Medium.com clone written using ReasonReact
+* [ReasonML RealWorld example app #2](https://github.com/jihchi/reason-react-realworld-example-app) - Another Medium.com clone written using ReasonReact
 * [re:bench](https://github.com/rebench/rebench.github.io) - Benchmarking playground built with ReasonReact. A real app in real use.
 * [TicTacToe ReasonML engine](https://github.com/venil7/ReasonML-TicTacToe) - Minimax Tic-Tac-Toe implementation in ReasonML
 * [reason-chess](https://github.com/venil7/reason-chess) - Chess engine for multiple platforms and web example chess game. [(demo)](http://darkruby.co.uk/reason-chess/)
