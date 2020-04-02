@@ -90,6 +90,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem.
 * [flex](https://github.com/jordwalke/flex) - CSS flexbox layout engine in Reason (port of Yoga)
 * [re-classnames](https://github.com/alexfedoseev/re-classnames) - Simple reimplementation of [classnames](https://github.com/JedWatson/classnames) in ReasonML
 * [reason-css-modules-loader](https://github.com/sainthkh/reason-css-modules-loader) - Drop-in replacement for [css-loader](https://github.com/webpack-contrib/css-loader).
+* [styled-ppx](https://github.com/davesnx/styled-ppx) - CSS-in-Reason that mimics [styled-components](https://github.com/styled-components/styled-components)
 
 #### Reason Editor Plugins
 
