@@ -191,6 +191,7 @@ See the official guide [here](https://reasonml.github.io/docs/en/editor-plugins)
 * [Simon Game](https://github.com/arecvlohe/reason-react-simon-game/tree/master) - The handheld Simon game written in ReasonReact
 * [We Write](https://github.com/leomayleomay/we-write-app) - the App utilizes Github API as the backend, so non-tech writers could collaborate
 * [Coronate](https://github.com/johnridesabike/coronate) - A Swiss-style chess tournament manager for the web and desktop, written with ReasonReact. [(web demo)](https://johnridesa.bike/coronate/)
+* [Pomodoro](https://github.com/tkovs/pomodoro) - A pomodoro webapp written in ReasonReact, using webpack, and fully tested with bs-react-testing-library and reason-hooks-testing-library. [(demo)](https://pomodoro.tkovs.com)
 
 ---
 ## Contribution
