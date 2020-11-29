@@ -111,6 +111,7 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 * [reason-react](https://github.com/reasonml/reason-react) - React.js bindings
 * [reaml](https://github.com/utkarshkukreti/reaml) - A React binding for (OCaml | ReasonML) + BuckleScript with compile time enforcement of the "Rules of Hooks".
 * [rembrandt](https://github.com/przemyslawjanpietrzak/rembrandt) - Simple functional UI framework written in Reasonml.
+* [re-ansi](https://github.com/softwarefactory-project/re-ansi#readme) - Render ANSI code to HTML
 
 #### Design system
 * [bs-ant-design](https://github.com/thangngoc89/bs-ant-design) - React Ant design bindings.
