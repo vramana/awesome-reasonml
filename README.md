@@ -4,21 +4,19 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 
 - [Reason](#reason)
   - [General Resources](#general-resources)
-  - [BuckleScript](#bucklescript)
+  - [Melange](#melange)
   - [Starter Kits](#starter-kits)
   - [Tutorials](#tutorials)
   - [Talks](#talks)
   - [Tools](#tools)
-  - [Libraries and Bindings](#libraries-and-bindings)
-    - [GraphQL](#graphQL)
+  - [Libraries](#libraries)
     - [Standard Libs](#standard-libs)
-    - [Form](#form)
-    - [UI Libraries](#ui-libraries)
-    - [Promises and Async](#promises-and-async)
-    - [State managment](#state-managment)
-    - [CSS](#css)
+    - [Web](#web)
+    - [JSON encoding and decoding](#json-encoding-and-decoding)
+    - [Server](#server)
+    - [Testing](#testing)
+    - [GraphQL](#graphQL)
   - [Editor Plugins](#reason-editor-plugins)
-  - [JSON encoding and decoding](#json-encoding-and-decoding)
 - [Example Apps](#example-apps)
 - [Contribution](#contribution)
 
@@ -31,23 +29,23 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 * [Reason Twitter](https://twitter.com/reasonml)
 * [Discord Community](https://discord.gg/reasonml)
 
-### BuckleScript
-* [Homepage](https://bucklescript.github.io/)
-* [BuckleScript Manual](https://bucklescript.github.io/docs/)
-* [BuckleScript attributes explained with examples](https://github.com/moroshko/bs-blabla)
+### Melange
+* [Homepage](https://melange.re/)
+* [Melange documentation](https://melange.re/v4.0.0/what-is-melange.html)
+* [Melange Playground](https://melange.re/unstable/playground)
 * [Reason Playground](https://reasonml.github.io/en/try.html)
-* [BuckleScript Playground](https://bucklescript.github.io/bucklescript-playground/index.html)
 * [Reason package index](https://redex.github.io/)
+* [Melange for React Devs](https://react-book.melange.re/)
 
 ### Starter Kits
+* [create-melange-app](https://github.com/dmmulroy/create-melange-app)
+* [Melange Project template with opam](https://github.com/melange-re/melange-opam-template)
+* [Melange Project template with esy](https://github.com/melange-re/melange-esy-template)
 * [Example Project](https://reasonml.github.io/docs/en/installation)
-* [Example Native Project](https://github.com/bsansouci/bsb-native-example)
-* [Reason React lib starter kit](https://github.com/katmai7/reason-react-rollup-starter-kit)
-* [ReasonReact Playground on Glitch](https://glitch.com/~glitch-reason-react)
-* [Reason + Express.js boilerplate](https://github.com/lalnuo/reasonml-express-boilerplate)
-* [NextJS](https://github.com/ryyppy/nextjs-default) - Opinionated Boilerplate for NextJS, Tailwind and Reason
+* [Reason Starter kit for Advent of Code](https://github.com/ManasJayanth/reason-aoc-starter)
 
 ### Tutorials
+* [Melange for React Devs](https://react-book.melange.re/)
 * [An Invitation to ReasonML](https://protoship.io/blog/2017/05/10/an-invitation-to-reasonml.html)
 * [Armed with Reason](http://kcsrk.info/reason/arm/2016/05/16/armed-with-reason/) - Target Raspberry PI
 * [Intro to Reason Compilation](https://github.com/chenglou/intro-to-reason-compilation)
@@ -63,6 +61,8 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 * [Another ReasonReact Tutorial for Beginners](https://www.robinwieruch.de/reason-react-tutorial/)
 
 ### Talks
+* 2024/03 - [@dillon_mulroy](https://x.com/dillon_mulroy) - Frontrunners - [Melange: The Next Frontier in Type-Safe Web Development](https://www.youtube.com/watch?v=wl8zUq1FUzM)
+* 2023/08 - [@davesnx](https://x.com/davesnx) - React Alicante - [Server side rendering React natively with Reason](https://www.youtube.com/watch?v=e3qY-Eg9zRY)
 * 2019/09 - [@flaviocorpa](https://github.com/kutyel) - LambdAle - [What happens if you let the creator of React design a programming language](https://youtu.be/5IcG_BCGxEY)
 * 2019/08 - [@jordwalke](https://github.com/jordwalke) - ReasonConf US - [React to the Future](https://www.youtube.com/watch?v=5fG_lyNuEAw)
 * 2018/05 – [@cristianoc](https://github.com/cristianoc) – React Europe – [ReasonReact and local state](https://www.youtube.com/watch?v=qJnP-Vatp3M)
@@ -81,84 +81,57 @@ A collection of awesome things regarding Reason/OCaml ecosystem. Inspired by the
 ---
 
 ### Tools
+* [opam](https://opam.ocaml.org) - OCaml Package Manager
+* [dune](https://dune.readthedocs.io/en/stable) - Dune is a build system for OCaml projects. Using it, you can build executables, libraries, run tests, and much more
+* [Vite plugin](https://github.com/pdelacroix/vite-plugin-melange) - A Vite plugin for Melange
 * [reason-tools](https://github.com/reasonml/reason-tools) - Chrome/Firefox Reason extension
 * [RED](https://github.com/frantic/red) - Native Reason/OCaml debugger
-* [bs-loader](https://github.com/reasonml-community/bs-loader) - Webpack loader for Bucklescript
-* [resuggest](https://github.com/GuillaumeSalles/resuggest) - Discover Reason functions based on examples.
-* [rollup-plugin-bucklescript](https://github.com/shrynx/rollup-plugin-bucklescript) - rollup plugin for using bucklescript
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability
 
-### Libraries and Bindings
-
-#### GraphQL
-* [reasonql](https://github.com/sainthkh/reasonql) - Type-safe and simple GraphQL client for ReasonML
-* [RemoteData](https://github.com/lrosa007/remotedata-re) - Tools for fetching data from remote sources
-* [reason-apollo-hooks](https://github.com/reasonml-community/reason-apollo-hooks) - Ergonomic focused bindings for @apollo/react-hooks
-* [graphql_ppx](https://github.com/reasonml-community/graphql_ppx) - GraphQL PPX rewriter for Bucklescript/ReasonML written in ReasonML.
-* [reason-relay](https://github.com/zth/reason-relay) - Use Relay with ReasonML
+### Libraries
 
 #### Standard Libs
-* [Belt](https://bucklescript.github.io/bucklescript/api/Belt.html) - A stdlib shipped with BuckleScript.
+* [Belt](https://melange.re/v4.0.0/api/re/melange/Belt/) - A stdlib shipped with Melange.
+* [Js](https://melange.re/v4.0.0/api/re/melange/Js/) - Bindings to several browser and Node JavaScript APIs
 * [tablecloth](https://github.com/darklang/tablecloth) - An ergonomic, cross-platform, standard library for ReasonML and OCaml
-* [Rationale](https://github.com/jonlaing/rationale) - Ramda inspired library of helper functions for ReasonML
 * [relude](https://github.com/reazen/relude) - FP-inspired prelude/standard library for ReasonML projects.
+* [Rationale](https://github.com/jonlaing/rationale) - Ramda inspired library of helper functions for ReasonML
 
-#### Form
-* [ReForm](https://github.com/Astrocoders/reform) - Making forms sound good again
-* [Formality](https://github.com/alexfedoseev/re-formality) - Form validation tool focused on the great UX
-
-#### UI Libraries
+#### Web
 * [reason-react](https://github.com/reasonml/reason-react) - React.js bindings
-* [reaml](https://github.com/utkarshkukreti/reaml) - A React binding for (OCaml | ReasonML) + BuckleScript with compile time enforcement of the "Rules of Hooks".
-* [rembrandt](https://github.com/przemyslawjanpietrzak/rembrandt) - Simple functional UI framework written in Reasonml.
-* [re-ansi](https://github.com/softwarefactory-project/re-ansi#readme) - Render ANSI code to HTML
-
-#### Design system
-* [bs-ant-design](https://github.com/thangngoc89/bs-ant-design) - React Ant design bindings.
-
-#### Promises and Async
-* [bs-let](https://github.com/reasonml-labs/bs-let) - A PPX for async/await (and general monadic binding) in ReasonML.
-* [future](https://github.com/RationalJS/future) - A Js.Promise alternative for ReasonML
-* [bs-rx](https://github.com/ambientlight/bs-rx) - Reactive extensions(RxJS) in ReasonML
-
-#### CSS
-* [bs-react-fela](https://github.com/astrada/bs-react-fela) - Bindings for [fela](https://github.com/rofrischmann/fela)
-* [bs-css](https://github.com/SentiaAnalytics/bs-css) - CSS-in-Reason typed CSS inspired by Elm (using [glamor](https://github.com/threepointone/glamor))
-* [bs-glamor](https://github.com/poeschko/bs-glamor) - Bindings for [glamor](https://github.com/threepointone/glamor)
-* [bs-nice](https://github.com/threepointone/bs-nice) - CSS-in-Reason typed CSS by Sunil Pai ([glamor](https://github.com/threepointone/glamor) author)
-* [flex](https://github.com/jordwalke/flex) - CSS flexbox layout engine in Reason (port of Yoga)
-* [re-classnames](https://github.com/alexfedoseev/re-classnames) - Simple reimplementation of [classnames](https://github.com/JedWatson/classnames) in ReasonML
-* [reason-css-modules-loader](https://github.com/sainthkh/reason-css-modules-loader) - Drop-in replacement for [css-loader](https://github.com/webpack-contrib/css-loader).
-* [re-tailwind](https://github.com/phthhieu/re-tailwind) - Brings TailwindCSS to ReasonML.
-* [tailwind-ppx](https://github.com/dylanirlbeck/tailwind-ppx) - Reason/OCaml PPX that validates your Tailwind classes at compile-time
-* [styled-ppx](https://github.com/davesnx/styled-ppx) - CSS-in-Reason that mimics [styled-components](https://github.com/styled-components/styled-components)
-
-#### State managment
-* [restorative](https://github.com/paulshen/restorative) - Simple ReasonML state management
-* [reductive](https://github.com/reasonml-community/reductive) - Redux in Reason
-* [refractive](https://github.com/tizoc/refractive) - Lenses and tracked selectors enhancer and hooks for reductive
-
-#### Utils
-* [reason-powerplug](https://github.com/beizhedenglong/reason-powerplug) - Renderless containers for ReasonReact.
-* [ReDate](https://github.com/mobily/re-date) - 📆 A collection of useful helpers for handling dates in ReasonML with the same modern API as the well-known `date-fns`
-* [bs-typing](https://github.com/arecvlohe/bs-typing) - Typed.js bindings
-* [bs-pixi](https://github.com/ambientlight/bs-pixi) - PixiJS(2D WebGL rendering) in ReasonML.
-* [genType](https://github.com/cristianoc/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType.
+* [promise](https://github.com/aantron/promise) - Light and type-safe binding to JS promises
+* [styled-ppx](https://github.com/davesnx/styled-ppx) - Type-safe styled components for ReScript, Melange and native with type-safe CSS
+* [melange-fetch](https://github.com/melange-community/melange-fetch) - Fetch bindings for Melange
 
 #### JSON encoding and decoding
-* [bs-json](https://github.com/glennsl/bs-json) - Compositional JSON encode/decode library for BuckleScript
-* [milk](https://github.com/jaredly/milk) - Milk 🥛 Stress-free serialization & deserialization for Reason/OCaml
+* [melange-json](https://github.com/melange-community/melange-json) - Compositional JSON encode/decode library for Melange
 * [ocaml-decoders](https://github.com/mattjbray/ocaml-decoders) - Elm-inspired decoders for Ocaml
-* [decco](https://github.com/reasonml-labs/decco) - Bucklescript PPX which generates JSON (de)serializers for user-defined types
 * [atd](https://github.com/ahrefs/atd) - Static types for JSON APIs
 * [bs-decode](https://github.com/mlms13/bs-decode) - Type-safe JSON decoding for ReasonML and OCaml ([documentation site](https://mlms13.github.io/bs-decode/docs/what-and-why))
 
-#### Editor Plugins
+#### Server
+* [Dream](https://github.com/aantron/dream) - Tidy, feature-complete Web framework
+* [html_of_jsx](https://github.com/davesnx/html_of_jsx) - Render HTML with JSX
+* [server-reason-react](https://github.com/ml-in-barcelona/server-reason-react) - Server render Reason React components with OCaml natively
+
+#### GraphQL
+* [reasonql](https://github.com/sainthkh/reasonql) - Type-safe and simple GraphQL client for ReasonML
+* [graphql_ppx](https://github.com/teamwalnut/graphql-ppx) - GraphQL PPX rewriter for Bucklescript/ReasonML written in ReasonML.
+* [melange-relay](https://github.com/anmonteiro/melange-relay) - Use Relay with ReasonML
+
+#### Testing
+* [melange-fest](https://github.com/ahrefs/melange-fest) - A minimal test framework for Melange using Node test runner
+* [melange-jest](https://github.com/melange-community/melange-jest/) - Melange bindings for Jest
+* [melange-testing-library](https://github.com/melange-community/melange-testing-library) - Melange bindings for testing-library (dom-testing-library and react-testing-library)
+
+### Editor Plugins
 
 See the official guide [here](https://reasonml.github.io/docs/en/editor-plugins)
-* [vscode-reasonml-graphql](https://github.com/zth/vscode-reasonml-graphql)
+* [vscode-ocaml-platform](https://github.com/ocamllabs/vscode-ocaml-platform) - Visual Studio Code extension for ReasonML and OCaml
+* [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) - OCaml Language Server Protocol implementation
 
 ---
+
 ### Example Apps
 * [Reason Catstagram](https://github.com/kutyel/reason-catstagram) - A Catstagram built with Reason and React hooks!
 * [ReasonReact example](https://github.com/reasonml-community/reason-react-example) - ReasonReact examples
@@ -195,10 +168,12 @@ See the official guide [here](https://reasonml.github.io/docs/en/editor-plugins)
 * [Pomodoro](https://github.com/tkovs/pomodoro) - A pomodoro webapp written in ReasonReact, using webpack, and fully tested with bs-react-testing-library and reason-hooks-testing-library. [(demo)](https://pomodoro.tkovs.com)
 
 ---
+
 ## Contribution
 
 Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
 
 ---
+
 ## License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
